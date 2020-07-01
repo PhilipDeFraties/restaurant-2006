@@ -1,6 +1,6 @@
 class Restaurant
-  attr_reader :name
 
-  def initialize
+def initialize(opening_time, name)
   end
+
 end
